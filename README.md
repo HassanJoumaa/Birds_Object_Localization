@@ -1,6 +1,6 @@
 # Predicting Bounding Boxes
 
-This is a Programming Assignment from the Advanced Computer Vision with Tensorflow.
+This is a Programming Assignment from the Advanced Computer Vision with Tensorflow Course.
 
 The goal is to build a model to predict bounding boxes around images.  
 - We use transfer learning on the Mobilnet V2 model available in Keras. 
